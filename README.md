@@ -1,5 +1,6 @@
 # retail-data-dashboard-powerbi
 Title -  Retail Data Visualization and Insights using Power BI
+ 
  Objective  - To design an interactive Power BI dashboard that tracks and analyses store sales performance, customer behaviour, and product demand.
 
 ---
